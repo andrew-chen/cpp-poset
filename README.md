@@ -155,3 +155,7 @@ chenan@mnstate.edu
 ## Contributing
 
 Contributions welcome! Please open issues or pull requests on GitHub.
+
+## Acknowledgments
+
+Portions of this implementation were developed with AI assistance.
